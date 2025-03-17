@@ -1,1 +1,1 @@
-# to understand how eactactually work by building a custom react
+# to understand how react actually work by building a custom react
